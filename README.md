@@ -21,7 +21,7 @@ This Application has been developed to help the customer in processing their com
 
  <hr>
  
-# SOFTWARE REQUIRED
+# 👨🏻‍💻 SOFTWARE REQUIRED
 - PYTHON
 - FLASK
 - DOCKER
