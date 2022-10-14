@@ -40,7 +40,7 @@ This Application has been developed to help the customer in processing their com
 
 <hr>
 
-## ASSIGNMENT FINISHED
+## 📒 ASSIGNMENT FINISHED
 - [x] ASSIGNMENT 1
 - [x] ASSIGNMENT 2
 - [x] ASSIGNMENT 3 
@@ -83,6 +83,6 @@ This Application has been developed to help the customer in processing their com
 <hr>
 
 <div align="center">
- <h5> | JEPPIAAR SRR ENGINEERING COLLEGE |</h5>
+ <h5> | CUSTOMER CARE REGISTRY |</h5>
 
 <hr>
