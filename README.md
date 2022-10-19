@@ -34,7 +34,7 @@
   <summary>TABLE OF CONTENTS</summary>
   <ol>
     <li>
-      <a href="#project-description">PROJECT DESCRIPTION</a>
+      <a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621#-project-description">PROJECT DESCRIPTION</a>
     </li>
     <li>
       <a href="#SOFTWARE-REQUIRED">SOFTWARE REQUIRED</a>
