@@ -37,10 +37,10 @@
       <a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621#-project-description">PROJECT DESCRIPTION</a>
     </li>
     <li>
-      <a href="#SOFTWARE-REQUIRED">SOFTWARE REQUIRED</a>
+      <a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621#-software-required">SOFTWARE REQUIRED</a>
     </li>
-    <li><a href="#SKILLS-REQUIRED">SKILLS REQUIRED</a></li>
-    <li><a href="#TEAM-MEMBERS">TEAM MEMBERS</a></li>
+    <li><a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621#-skills-required">SKILLS REQUIRED</a></li>
+    <li><a href="#-TEAM-MEMBERS">TEAM MEMBERS</a></li>
     <li><a href="#ASSIGNMENT-FINISHED">ASSIGNMENT FINISHED</a></li>
      <ul>
         <li><a href="#LINKS">LINKS</a></li>
