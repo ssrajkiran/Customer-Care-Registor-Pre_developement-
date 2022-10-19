@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]][https://github.com/ssrajkiran/Customer-Care-Registor-Pre_developement-/graphs/contributors]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 
