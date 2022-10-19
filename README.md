@@ -167,9 +167,8 @@ This Application has been developed to help the customer in processing their com
 
 
 <hr>
-# **🔑License** </br>
-[![License: IPL 1.0](https://img.shields.io/badge/License-IPL_1.0-blue.svg)]
-
+# 🔑 LICENSE </br>
+- [x] License: IPL 1.0
 
 <hr>
 📫 How to reach Us <a href = "mailto:ibmdemo6@yahoo.com">Connect with Email</a>
