@@ -34,7 +34,7 @@
   <summary>TABLE OF CONTENTS</summary>
   <ol>
     <li>
-      <a href="#PROJECT DESCRIPTION">PROJECT DESCRIPTION</a>
+      <a href="#project-description">PROJECT DESCRIPTION</a>
     </li>
     <li>
       <a href="#SOFTWARE-REQUIRED">SOFTWARE REQUIRED</a>
