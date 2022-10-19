@@ -51,7 +51,7 @@
         <li><a href="#DESIGN-PHASE-PHASE">DESIGN PHASE</a></li>
         <ul>
         <li><a href="#DESIGN-PHASE-01">DESIGN PHASE 01</a></li>
-        <li><a href="#DESIGN-PHASE-02">DESIGN PHASE 02</a></li>
+        <li><a href="#design-phase-02">DESIGN PHASE 02</a></li>
         </ul>
         </ul>
   </ol>
