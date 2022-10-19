@@ -1,7 +1,7 @@
 <br>
 
- <h1 align="fill" >
- <img src="CUSTOMER.png" />
+<h1 align="fill" >
+<img src="GRAPHIC DESIGNER FLYER TEMPLATE - Made with PosterMyWall.jpg" />
 </h1>
 <div align="center">
 
