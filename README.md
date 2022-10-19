@@ -45,7 +45,7 @@
      <ul>
         <li><a href="#-LINKS">LINKS</a></li>
         </ul>
-    <li><a href="#PROJECT-DESIGN-&-PLANNING">PROJECT DESIGN & PLANNING</a></li>
+    <li><a href="#-PROJECT-DESIGN-&-PLANNING">PROJECT DESIGN & PLANNING</a></li>
      <ul>
         <li><a href="#-IDEATION-PHASE">IDEATION PHASE</a></li>
            <ul>
