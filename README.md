@@ -41,9 +41,9 @@
     </li>
     <li><a href="#-skills-required">SKILLS REQUIRED</a></li>
     <li><a href="#-TEAM-MEMBERS">TEAM MEMBERS</a></li>
-    <li><a href="#ASSIGNMENT-FINISHED">ASSIGNMENT FINISHED</a></li>
+    <li><a href="#-ASSIGNMENT-FINISHED">ASSIGNMENT FINISHED</a></li>
      <ul>
-        <li><a href="#LINKS">LINKS</a></li>
+        <li><a href="#-LINKS">LINKS</a></li>
         </ul>
     <li><a href="#PROJECT-DESIGN-&-PLANNING">PROJECT DESIGN & PLANNING</a></li>
      <ul>
