@@ -167,7 +167,7 @@ This Application has been developed to help the customer in processing their com
 
 
 <hr>
-# 🔑 LICENSE </br>
+# 🔑 LICENSE 
 - [x] License: IPL 1.0
 
 <hr>
