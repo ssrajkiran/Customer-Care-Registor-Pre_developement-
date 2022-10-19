@@ -1,9 +1,9 @@
 <br>
-
+<div align="center">
 <h1 align="fill" >
 <img src="image (1).png" />
 </h1>
-<div align="center">
+
 
 [![](https://img.shields.io/github/contributors/IBM-EPBL/IBM-Project-1392-1658386621)](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/graphs/contributors)
 [![](https://img.shields.io/github/forks/IBM-EPBL/IBM-Project-1392-1658386621)](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/network/members)
@@ -18,17 +18,12 @@
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center" size=20px>CUSTOMER CARE REGISTRY</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/krvaibhaw/best-readme-template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/krvaibhaw/best-readme-template/issues">Report Bug</a>
-    
-    <a href="https://github.com/krvaibhaw/best-readme-template/issues">Request Feature</a>
+    TECHNOLOGY : CLOUD APP DEVELOPMENT <br />
+    TEAM ID    : PNT2022TMID37544 <br />
+    BATCH NO   : B1-1M3E <br />  
   </p>
 </p>
 
