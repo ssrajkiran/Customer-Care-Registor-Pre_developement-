@@ -1,7 +1,7 @@
 <div align="center">
 
-[![Contributors][contributors-shield]][https://github.com/ssrajkiran/Customer-Care-Registor-Pre_developement-/graphs/contributors]
-[![Forks][forks-shield]][[forks-url](https://github.com/ssrajkiran/Customer-Care-Registor-Pre_developement-/network/members)]
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][[forks-url]]
 [![Stargazers][stars-shield]][stars-url]
 
 <!-- PROJECT LOGO -->
