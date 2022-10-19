@@ -35,12 +35,9 @@
   <ol>
     <li>
       <a href="#PROJECT DESCRIPTION">PROJECT DESCRIPTION</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#SOFTWARE-REQUIRED">SOFTWARE REQUIRED</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
