@@ -34,12 +34,12 @@
   <summary>TABLE OF CONTENTS</summary>
   <ol>
     <li>
-      <a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621#-project-description">PROJECT DESCRIPTION</a>
+      <a href="#-project-description">PROJECT DESCRIPTION</a>
     </li>
     <li>
-      <a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621#-software-required">SOFTWARE REQUIRED</a>
+      <a href="#-software-required">SOFTWARE REQUIRED</a>
     </li>
-    <li><a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621#-skills-required">SKILLS REQUIRED</a></li>
+    <li><a href="#-skills-required">SKILLS REQUIRED</a></li>
     <li><a href="#-TEAM-MEMBERS">TEAM MEMBERS</a></li>
     <li><a href="#ASSIGNMENT-FINISHED">ASSIGNMENT FINISHED</a></li>
      <ul>
