@@ -37,7 +37,7 @@
       <a href="#PROJECT DESCRIPTION">PROJECT DESCRIPTION</a>
     </li>
     <li>
-      <a href="#SOFTWARE-REQUIRED">SOFTWARE REQUIRED</a>
+      <a href="#SOFTWARE REQUIRED">SOFTWARE REQUIRED</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
