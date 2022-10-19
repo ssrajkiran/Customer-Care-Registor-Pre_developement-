@@ -168,7 +168,7 @@ This Application has been developed to help the customer in processing their com
 
 <hr>
 # **🔑License**
-[![License: IPL 1.0](https://img.shields.io/badge/License-IPL_1.0-blue.svg)](https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/blob/main/LICENSE.md)
+[![License: IPL 1.0](https://img.shields.io/badge/License-IPL_1.0-blue.svg)](https://github.com/IBM-EPBL/IBM-Project-35221-1660282887/blob/main/LICENSE)
 
 
 <hr>
