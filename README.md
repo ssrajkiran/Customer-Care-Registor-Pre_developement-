@@ -58,7 +58,28 @@
         <li><a href="#-DESIGN-PHASE-PHASE">DESIGN PHASE</a></li>
         <ul>
         <li><a href="#-DESIGN-PHASE-01">DESIGN PHASE 01</a></li>
+           <ul>
+        <li><a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Design_Phase_01/Architecture">ARCHITECTURE</a></li>
+        </ul>
+             <ul>
+        <li><a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Design_Phase_01/Problem%20Solution%20fit">PROBLEM SOLUTION FIT</a></li>
+        </ul>
+             <ul>
+        <li><a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Design_Phase_01/Proposed%20Solution">PROPOSED SOLUTION</a></li>
+        </ul>
         <li><a href="#design-phase-02">DESIGN PHASE 02</a></li>
+           <ul>
+        <li><a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Design_Phase_02/Customer%20Journey">CUSTOMER JOURNEY</a></li>
+           <ul>
+              <ul>
+        <li><a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Design_Phase_02/Data%20Flow%20Dailgrams">DATA FLOW DIAGRAM</a></li>
+           <ul>
+              <ul>
+        <li><a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Design_Phase_02/Solution%20Requirements">SOLUTION REQUIREMENTS</a></li>
+           <ul>
+              <ul>
+        <li><a href="https://github.com/IBM-EPBL/IBM-Project-1392-1658386621/tree/main/Project_Design%26Planning/Design_Phase_02/Technology%20Stack">TECHNOLOGY STACK</a></li>
+           <ul>
         </ul>
         </ul>
   </ol>
