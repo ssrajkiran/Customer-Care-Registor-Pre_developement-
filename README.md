@@ -1,10 +1,9 @@
-<div align="center">
 
-[![Contributors][]][contributors-url]
-[![Forks][forks-shield]][[forks-url]]
+<a name="readme-top"></a>
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-
-<!-- PROJECT LOGO -->
 
 <br />
 
