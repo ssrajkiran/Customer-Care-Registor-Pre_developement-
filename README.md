@@ -37,18 +37,23 @@
       <a href="#PROJECT DESCRIPTION">PROJECT DESCRIPTION</a>
     </li>
     <li>
-      <a href="#SOFTWARE REQUIRED">SOFTWARE REQUIRED</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
+      <a href="#SOFTWARE-REQUIRED">SOFTWARE REQUIRED</a>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#SKILLS-REQUIRED">SKILLS REQUIRED</a></li>
+    <li><a href="#TEAM-MEMBERS">TEAM MEMBERS</a></li>
+    <li><a href="#ASSIGNMENT-FINISHED">ASSIGNMENT FINISHED</a></li>
+     <ul>
+        <li><a href="#LINKS">LINKS</a></li>
+        </ul>
+    <li><a href="#PROJECT-DESIGN-&-PLANNING">PROJECT DESIGN & PLANNING</a></li>
+     <ul>
+        <li><a href="#IDEATION-PHASE">IDEATION PHASE</a></li>
+        <li><a href="#DESIGN-PHASE-PHASE">DESIGN PHASE</a></li>
+        <ul>
+        <li><a href="#DESIGN-PHASE-01">DESIGN PHASE 01</a></li>
+        <li><a href="#DESIGN-PHASE-02">DESIGN PHASE 02</a></li>
+        </ul>
+        </ul>
   </ol>
 </details>
 
