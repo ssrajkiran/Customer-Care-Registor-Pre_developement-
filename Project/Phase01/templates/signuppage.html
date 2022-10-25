@@ -1,0 +1,55 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>Sign in page</title>
+
+{% endblock %}
+
+
+{% block body %}
+<body style="background-color:black;">
+  
+  <div class="container" style="padding-top:200px; text-align: center;">
+    <h3 class="page-header text-primary">Register</h3>
+    {% with messages = get_flashed_messages(with_categories=true) %}
+                {% if messages %}
+                    {% for category,message in messages %}
+                        <div class="alert alert-{{category}}" style="color: red;">{{message}}</div>
+                    {% endfor %}
+                {% endif %}
+                {% endwith %}
+
+    <form action="{{ url_for('register') }}" method="POST" >
+
+      <div class="form-group">
+        <label for="exampleInputname">Name</label>
+        <input type="text" style="color: white;" class="form-control" id="name" name="name" placeholder="Enter Name" required>
+      </div>
+
+        <div class="form-group">
+          <label for="exampleInputEmail">Email address</label>
+          <input type="email"  style="color: white;" class="form-control" id="email" name="email" placeholder="Enter email" required>
+          <small id="emailHelp">We'll never share your email with anyone else.</small>
+        </div>
+
+        <div class="form-group">
+          <label for="exampleInputPassword">Password</label>
+          <input type="password"  style="color: white;" class="form-control" id="password" name="password" placeholder="Password" required>
+        </div>
+
+        <div class="form-group">
+          <label for="exampleInputphonenumber">Phone Number</label>
+          <input type="tel" style="color: white;"  class="form-control" id="phonenumber" name="phonenumber" placeholder="Enter phone Number" pattern="[0-9]{10}" required>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    
+      </form>
+  </div>
+      <a href="{{ url_for('home') }}" class="btn btn-primary align-items-left " role="button"><span style="color:black; font-weight: bolder;">Back</span>
+       </a>
+      {% endblock %}
+
+</body>
+
+</html>

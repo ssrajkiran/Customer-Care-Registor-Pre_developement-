@@ -1,0 +1,43 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>Sign in page</title>
+
+{% endblock %}
+
+
+{% block body %}
+<body style="background-color:black;">
+
+    <div class="container" style="padding-top:200px; text-align: center;">
+      <h3 class="page-header text-primary">Login </h3>
+      {% with messages = get_flashed_messages(with_categories=true) %}
+      {% if messages %}
+          {% for category,message in messages %}
+              <div class="alert alert-{{category}}" style="color: red;">{{message}}</div>
+          {% endfor %}
+      {% endif %}
+      {% endwith %}
+
+
+    <form action="{{ url_for('login') }}" method="POST">
+        
+        <div class="form-group">
+          <label for="exampleInputid">Id</label>
+          <input type="tel" style="color: white;" class="form-control" id="id" name="idn" placeholder="Enter Id" pattern="[0-9]{4}" required>
+          <small id="emailHelp">We'll never share your Password with anyone else.</small>
+        </div>
+        <div class="form-group">
+          <label for="exampleInputPassword1">Password</label>
+          <input style="color: white;" type="password" class="form-control" id="password" name="password" placeholder="Password" required>
+        </div>
+        
+        <button type="submit" class="btn btn-primary">Submit</button>
+        
+      </div>
+      </form>
+
+      <a href="{{ url_for('home') }}" class="btn btn-primary " role="button"><span style="color:black; font-weight: bolder;">Back</span> </a>
+      <a href="{{ url_for('signuppage') }}" class="btn btn-primary" role="button"><span style="color:black; font-weight: bolder; ">Create an Account</span> </a>
+{% endblock %}
+</body>
