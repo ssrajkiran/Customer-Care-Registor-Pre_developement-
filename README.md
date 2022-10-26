@@ -165,11 +165,6 @@ This Application has been developed to help the customer in processing their com
 - [x] Data Flow Diagrams
 - [x] Technology Stack
 
-
-<hr>
-# 🔑 LICENSE 
-- [x] License: IPL 1.0
-
 <hr>
 📫 How to reach Us <a href = "mailto:ibmdemo6@yahoo.com">Connect with Email</a>
 
