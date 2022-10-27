@@ -20,6 +20,31 @@
             {% endwith %}
       
                 <h3>Hello admin!</h3>
+                <a href="{{url_for('databases')}}" class="btn btn-primary btn-block">Show databases</a>
+                <table>
+                    <thead>
+                    <tr>
+                        <th>id</th>
+                        <th>Name</th>
+                        <th>Email</th>
+                        <th>password</th>
+                        <th>phonenumber</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                        {% for row in users %} 
+                            <tr>
+                                <td>{{row['ID']}}</td>
+                                <td>{{row["NAME"]}}</td>
+                                <td>{{row["Email"]}}</td>
+                                <td>{{row["PASSWORD"]}}</td>
+                                <td>{{row['PHONENUMBER']}}</td>
+
+                            </tr>
+                        {% endfor %}        
+                    </tbody>
+                </table>
+
                 <a href="{{url_for('remove')}}" class="btn btn-primary btn-block">delect</a>
             <a href="{{url_for('home')}}" class="btn btn-primary btn-block">Logout</a>
         </div>
